@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, My name is Eduardo Mendez.
 
-<!--
-**eduardommv/eduardommv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![profile image](./img-profile.png)
 
-Here are some ideas to get you started:
+I am a Web Development Student and I am a Technologist in Marketing Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am learning to program and I am doing web projects with the help of Platzi.
+In this **README.md** I show some projects that I implemented in my process as a Web Developer.
+
+
+## Projects
+
+- [BatataBit](https://eduardommv.github.io/batatabit/)
+- [Figuras Geométricas](https://eduardommv.github.io/figuras-geometricas/)
+- [Google Clone](https://eduardommv.github.io/google_clone/)
