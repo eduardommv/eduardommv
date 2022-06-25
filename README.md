@@ -12,4 +12,4 @@ I am learning to program and I am doing web projects with the help of Platzi. In
 - [BatataBit](https://eduardommv.github.io/batatabit/)
 - [Figuras Geométricas](https://eduardommv.github.io/figuras-geometricas/)
 - [Porcentajes y Descuentos](https://eduardommv.github.io/porcentajes-y-descuentos/)
-- [Google Clone](https://eduardommv.github.io/google_clone/)
+- [EDEM Movies](https://eduardommv.github.io/edem-movies/)
